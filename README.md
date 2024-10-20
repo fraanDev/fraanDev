@@ -14,6 +14,8 @@
 
 ##
 
+### 🌱 Knowledge
+
 <div style="display: inline_block"> <br>
   <img align="center" alt="F-Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain.svg"/>
   <img align="center" alt="F-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -27,6 +29,7 @@
 
 ##
 
+### 💻 More about me
 <div>
   <a href="https://www.linkedin.com/in/francielly-da-silva-menezes0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:francielly07.1105@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"></a>
