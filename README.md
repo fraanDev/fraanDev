@@ -1,6 +1,6 @@
 
 <div style="display: inline_block"> <br>
-  <img align="center" alt="banner" src="https://cdn.discordapp.com/attachments/1238679037212364811/1297641992368685076/Texto_do_seu_paragrafo.png?ex=6716aac8&is=67155948&hm=048fd80537999a513e16c266639729c8b508bacf5cd9586ff14254289bdc5e05&">
+  <img align="center" alt="banner" src="https://cdn.discordapp.com/attachments/784896908576948265/1302039845388030055/Texto_do_seu_paragrafo.png?ex=6726aa99&is=67255919&hm=d5d7854753afa51b6bb768cad2ddb9ea1a66071072eb06f55d48c4b83369012f&">
 </div>
 
 ##
@@ -24,7 +24,7 @@
   <img align="center" alt="F-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img align="center" alt="F-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
   <img align="center" alt="F-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-   <img align="right" height="150" width="180" alt="[F-Jojo" src="https://cdn.discordapp.com/attachments/1238679037212364811/1297653966028406856/mobzinho.gif?ex=6716b5ee&is=6715646e&hm=fef7524b62ec3a6f204d95d9671dcab476f1bbf98a80ab2520da807245fd6920&"/>
+   <img align="right" height="150" width="180" alt="F-Jojo" src="https://cdn.discordapp.com/attachments/784896908576948265/1302040616921858048/ooooo.gif?ex=6726ab51&is=672559d1&hm=ec5c2d9e6c220e06896dbbc261352a2ae5033367073ee96a42c5220baf022637&"/>
 </div>
 
 ##
