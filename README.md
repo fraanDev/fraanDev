@@ -1,6 +1,6 @@
 
 <div style="display: inline_block"> <br>
-  <img align="center" alt="banner" src="https://cdn.discordapp.com/attachments/784896908576948265/1302039845388030055/Texto_do_seu_paragrafo.png?ex=6726aa99&is=67255919&hm=d5d7854753afa51b6bb768cad2ddb9ea1a66071072eb06f55d48c4b83369012f&">
+  <img align="center" alt="banner" src="https://cdn.discordapp.com/attachments/1238679037212364811/1297641992368685076/Texto_do_seu_paragrafo.png?ex=67457808&is=67442688&hm=fda00c62ec1505b9a65bbe632011b55b796085bf5e943c29f0976f39ec56068f&">
 </div>
 
 ##
